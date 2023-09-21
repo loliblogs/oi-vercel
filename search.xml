@@ -1602,22 +1602,22 @@
     
     
     <entry>
-      <title>404</title>
-      <link href="/oi/404.html"/>
-      <url>/oi/404.html</url>
+      <title>403</title>
+      <link href="/oi/403.html"/>
+      <url>/oi/403.html</url>
       
-        <content type="html"><![CDATA[<h2 id="你是怎么进来的？"><a href="#你是怎么进来的？" class="headerlink" title="你是怎么进来的？"></a>你是怎么进来的？</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="想偷窥我的秘密吗？"><a href="#想偷窥我的秘密吗？" class="headerlink" title="想偷窥我的秘密吗？"></a>想偷窥我的秘密吗？</h2>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>403</title>
-      <link href="/oi/403.html"/>
-      <url>/oi/403.html</url>
+      <title>404</title>
+      <link href="/oi/404.html"/>
+      <url>/oi/404.html</url>
       
-        <content type="html"><![CDATA[<h2 id="想偷窥我的秘密吗？"><a href="#想偷窥我的秘密吗？" class="headerlink" title="想偷窥我的秘密吗？"></a>想偷窥我的秘密吗？</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="你是怎么进来的？"><a href="#你是怎么进来的？" class="headerlink" title="你是怎么进来的？"></a>你是怎么进来的？</h2>]]></content>
       
     </entry>
     
@@ -1640,6 +1640,17 @@
       <url>/oi/friends/index.html</url>
       
         <content type="html"><![CDATA[<ul><li><a href="https://oi.men.ci/">menci</a></li><li><a href="http://hzwer.com/">hzwer</a></li><li><a href="https://blog.bill.moe/">yangming</a></li></ul>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/oi/api/status.html"/>
+      <url>/oi/api/status.html</url>
+      
+        <content type="html"><![CDATA[<p>OK</p>]]></content>
       
     </entry>
     
